@@ -1,6 +1,6 @@
 # Sales_data_Visualisation
 This Power BI report analyzes sales performance from 2020 to 2024, showcasing top and bottom products by sales, profit, and units sold. It includes sales trends, promotion effectiveness, geographic sales distribution, interactive tabular data to understand the analysation thoroughly.
-The raw data underwent comprehensive cleaning and restructuring in Power Query, including column reordering, type conversions, merging of related tables, and removal of unnecessary fields. Key steps involved promoting headers, filtering rows, replacing values, and adding custom columns to ensure data consistency. These transformations standardized the dataset structure while preserving all critical business dimensions needed for analysis.
+   The raw data underwent comprehensive cleaning and restructuring in Power Query, including column reordering, type conversions, merging of related tables, and removal of unnecessary fields. Key steps involved promoting headers, filtering rows, replacing values, and adding custom columns to ensure data consistency. These transformations standardized the dataset structure while preserving all critical business dimensions needed for analysis.
 
 # Page 1: Product Performance Analysis
 This page presents a comprehensive overview of product performance by ranking the top and bottom 5 products across three key metrics: total sales, units sold, and profit. It helps identify best-selling and underperforming products, offering insights for inventory, marketing, and sales strategy optimization.
