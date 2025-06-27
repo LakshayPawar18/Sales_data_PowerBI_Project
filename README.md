@@ -10,7 +10,8 @@ The raw data underwent comprehensive cleaning and restructuring in Power Query, 
 ## 📌 Page Overviews
 
 ### 🏆 Page 1: Product Performance Analysis
-![Screenshot](https://github.com/user-attachments/assets/75aec10f-cbe5-4eee-858c-0771089a7bcc)
+![image](https://github.com/user-attachments/assets/f9c70dcd-8601-43ea-bf9f-05a5a934d28b)
+
 
 Presents a comprehensive overview of product performance by ranking the top and bottom 5 products across three key metrics:
 - Total sales
@@ -22,7 +23,8 @@ Helps identify best-selling and underperforming products for inventory, marketin
 ---
 
 ### 📈 Page 2: Sales & Profit Trends
-![Screenshot](https://github.com/user-attachments/assets/c1738272-0eec-4b65-b6cf-fa2fb5cc0c6e)
+![image](https://github.com/user-attachments/assets/12d0f348-0d83-4303-a119-4e88c3d16acb)
+
 
 Visualizes:
 - Year-wise performance (2020-2024)
