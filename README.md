@@ -12,7 +12,6 @@ The raw data underwent comprehensive cleaning and restructuring in Power Query, 
 ### 🏆 Page 1: Product Performance Analysis
 ![image](https://github.com/user-attachments/assets/f9c70dcd-8601-43ea-bf9f-05a5a934d28b)
 
-
 Presents a comprehensive overview of product performance by ranking the top and bottom 5 products across three key metrics:
 - Total sales
 - Units sold
@@ -25,7 +24,6 @@ Helps identify best-selling and underperforming products for inventory, marketin
 ### 📈 Page 2: Sales & Profit Trends
 ![image](https://github.com/user-attachments/assets/12d0f348-0d83-4303-a119-4e88c3d16acb)
 
-
 Visualizes:
 - Year-wise performance (2020-2024)
 - Profit vs. Net Sales comparison
@@ -36,7 +34,7 @@ Assesses impact of different promotional strategies.
 ---
 
 ### ⚖️ Page 3: Comparative KPI Analysis (DAX Measures)
-![Screenshot](https://github.com/user-attachments/assets/6ae2b9dd-b9fa-415a-bd9c-3c24b9511b50)
+![image](https://github.com/user-attachments/assets/1d8bdb58-aa48-4b75-9e34-eccae447d04d)
 
 Features:
 - Side-by-side comparison of total sales, profit, and quantities sold
